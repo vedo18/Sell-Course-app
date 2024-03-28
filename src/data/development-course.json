@@ -4,93 +4,52 @@
         "id": 1,
         "title": "Web Development Fundamentals",
         "slug": "web-dev-fundamentals",
-        "description": "Learn the basics of HTML, CSS, and JavaScript",
+        "description": "Learn the basics of HTML, CSS, and JavaScript to kickstart your web development journey.",
         "price": 299.00,
         "instructor": "Saket Vats",
         "isFeatured": true,
-        "image": "" 
+        "image": ""
       },
       {
         "id": 2,
         "title": "App Development Fundamentals",
         "slug": "app-dev-for-beginners",
-        "description": "Start your app development with React Native",
+        "description": "Start your app development journey with React Native and build cross-platform mobile applications.",
         "price": 299.00,
         "instructor": "Saket Vats",
         "isFeatured": true,
-        "image": "" 
+        "image": ""
       },
       {
         "id": 3,
         "title": "Advanced Backend Development",
         "slug": "advanced-backend-techniques",
-        "description": "Enhance your backend development with Node.js, Express and MongoDB",
+        "description": "Enhance your backend development skills with Node.js, Express, and MongoDB, and build scalable and efficient web applications.",
         "price": 499.00,
         "instructor": "Saket Vats",
         "isFeatured": true,
-        "image": "" 
-      },
-      {
-        "id": 4,
-        "title": "Drumming Mastery",
-        "slug": "drumming-mastery",
-        "description": "Master the drums with our comprehensive course covering all skill levels.",
-        "price": 129.99,
-        "instructor": "Mike Brown",
-        "isFeatured": false,
-        "image": "/courses/drumming.jpg"
-      },
-      {
-        "id": 5,
-        "title": "Jazz Improvisation",
-        "slug": "jazz-improvisation",
-        "description": "Learn the art of jazz improvisation with this course designed for all levels.",
-        "price": 139.99,
-        "instructor": "Chris Davis",
-        "isFeatured": false,
-        "image": "/courses/jazz.jpg"
+        "image": ""
       },
       {
         "id": 6,
-        "title": "Devops Fundamentals",
+        "title": "DevOps Fundamentals",
         "slug": "devops-fundamentals",
-        "description": "Dive into devops learning about Docker, CI/CD, Kubernetes",
+        "description": "Dive into DevOps and learn about Docker, CI/CD, and Kubernetes to streamline your software development and deployment processes.",
         "price": 399.00,
         "instructor": "Saket Vats",
         "isFeatured": true,
         "image": ""
       },
       {
-        "id": 7,
-        "title": "Songwriting Essentials",
-        "slug": "songwriting-essentials",
-        "description": "Learn the essentials of songwriting to express your musical creativity.",
-        "price": 159.99,
-        "instructor": "Samantha Miller",
-        "isFeatured": false,
-        "image": "/courses/song-writing.jpg"
-      },
-      {
         "id": 8,
-        "title": "Devops Advance",
+        "title": "DevOps Advance",
         "slug": "devops-advance",
-        "description": "Get more deep dive into devops learning about deployment to cloud with docker, Kubernetes",
+        "description": "Take your DevOps skills to the next level with advanced topics such as deployment to cloud with Docker and Kubernetes.",
         "price": 599.00,
         "instructor": "Saket Vats",
         "isFeatured": true,
         "image": ""
-      },
-      {
-        "id": 9,
-        "title": "Classical Music History",
-        "slug": "classical-music-history",
-        "description": "Explore the rich history of classical music from its origins to the present day.",
-        "price": 179.99,
-        "instructor": "Grace Lee",
-        "isFeatured": false,
-        "image": "/courses/classical-music.jpg"
       }
-      
     ]
   }
   
