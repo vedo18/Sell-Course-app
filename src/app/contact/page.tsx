@@ -55,7 +55,7 @@ function DevXContactUs() {
             Send Message
           </button>
         </form>
-        <Meteors number={20} />
+        <Meteors number={5} />
       </div>
     </div>
   );

@@ -8,7 +8,7 @@
         "price": 299.00,
         "instructor": "Saket Vats",
         "isFeatured": true,
-        "image": ""
+        "image": "/courses/web-dev.jpg"
       },
       {
         "id": 2,
@@ -18,7 +18,7 @@
         "price": 299.00,
         "instructor": "Saket Vats",
         "isFeatured": true,
-        "image": ""
+        "image": "/courses/app-dev.jpg"
       },
       {
         "id": 3,
@@ -28,7 +28,7 @@
         "price": 499.00,
         "instructor": "Saket Vats",
         "isFeatured": true,
-        "image": ""
+        "image": "/courses/adv-backend.jpg"
       },
       {
         "id": 6,
@@ -38,7 +38,7 @@
         "price": 399.00,
         "instructor": "Saket Vats",
         "isFeatured": true,
-        "image": ""
+        "image": "/courses/devops.jpg"
       },
       {
         "id": 8,
@@ -48,7 +48,7 @@
         "price": 599.00,
         "instructor": "Saket Vats",
         "isFeatured": true,
-        "image": ""
+        "image": "/courses/devops.jpg"
       }
     ]
   }
