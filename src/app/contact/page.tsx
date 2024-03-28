@@ -2,6 +2,7 @@
 
 import React, { FormEvent, useState } from "react";
 import { BackgroundBeams } from "@/components/ui/background-beams";
+import { Meteors } from "@/components/ui/meteor";
 
 function DevXContactUs() {
   const [email, setEmail] = useState("");
@@ -27,8 +28,8 @@ function DevXContactUs() {
         </h1>
         <p className="text-neutral-500 max-w-lg mx-auto my-2 text-sm text-center">
           We&apos;re here to help with any questions about our courses,
-          programs, or events. Reach out and let us know how we can assist you
-          in your musical journey.
+          webinars, or events. Reach out and let us know how we can assist you
+          in your development journey.
         </p>
         <form onSubmit={handleSubmit} className="space-y-4 mt-4">
           <input
@@ -54,6 +55,7 @@ function DevXContactUs() {
             Send Message
           </button>
         </form>
+        <Meteors number={20} />
       </div>
     </div>
   );
